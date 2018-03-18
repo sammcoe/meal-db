@@ -1,2 +1,9 @@
-# meal-db
-A weekly meal-planning application that-- based on your history-- makes the decisions for you.
+# Meal_DB
+
+Database for the Meal app
+
+# License
+
+Copyright (c) 2018 Samuel Coe
+
+License: Apache 2
